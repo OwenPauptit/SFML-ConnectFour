@@ -1,0 +1,11 @@
+﻿  GameState.cpp
+C:\Users\owenp\source\repos\sfmlConnectFour\sfmlConnectFour\GameState.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owenp\source\repos\sfmlConnectFour\sfmlConnectFour\GameState.cpp(92,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owenp\source\repos\sfmlConnectFour\sfmlConnectFour\GameState.cpp(102,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owenp\source\repos\sfmlConnectFour\sfmlConnectFour\GameState.cpp(103,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owenp\source\repos\sfmlConnectFour\sfmlConnectFour\GameState.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owenp\source\repos\sfmlConnectFour\sfmlConnectFour\GameState.cpp(114,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owenp\source\repos\sfmlConnectFour\sfmlConnectFour\GameState.cpp(125,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owenp\source\repos\sfmlConnectFour\sfmlConnectFour\GameState.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\owenp\source\repos\sfmlConnectFour\sfmlConnectFour\GameState.cpp(154,22): warning C4018: '<': signed/unsigned mismatch
+  sfmlConnectFour.vcxproj -> C:\Users\owenp\source\repos\sfmlConnectFour\Debug\sfmlConnectFour.exe

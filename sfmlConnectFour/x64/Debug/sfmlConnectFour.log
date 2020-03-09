@@ -1,0 +1,4 @@
+﻿  Game.cpp
+  StateManager.cpp
+  Generating Code...
+sfml-window-d.lib(sfml-window-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
